@@ -15,8 +15,9 @@ No repositório existe dois arquivos, o Servidor e o Cliente.
 
  - Na pasta com os arquivos digitar o comando "python servidorTCP.py", subindo o servidor.
  - Logo depois: "python clienteTCP.py", para subir o cliente, e digitar a mensagem
-
+ - observação: Em alguns casos pode ser que precise usar "python3" ou invés de "python"
 ## Retorno
 
  - No servidor mostrará o IP e a Mensagem
  - No cliente mostrará a mensagem retornada do servidor
+
